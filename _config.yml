@@ -3,12 +3,12 @@ permalink: /posts/:year/:month/:day/:title/
 title: Makeitopen.com - Open Source Learning
 tagline: Connecting Facebook's Open Source projects
 fbappid: ""
-gacode: "UA-44373548-14"
+gacode: ""
 description: >
   This is a series of tutorials designed to introduce React Native and its Open Source ecosystem in plain English, written alongside the building of the F8 2016 app for Android and iOS.
 baseurl:
-url: http://makeitopen.com
-ghrepo: "facebook/makeitopen"
+url: https://dvbportal.github.io/makeitopen
+ghrepo: "dvbportal/makeitopen"
 
 # Build settings
 gems:
